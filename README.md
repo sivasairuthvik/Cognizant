@@ -159,7 +159,7 @@ The deep skilling track builds upon foundations to cover enterprise architecture
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/sivasairuthvik/Cognizant-DN5.git
+   git clone https://github.com/sivasairuthvik/Cognizant.git
    cd Cognizant-DN5
    ```
 
