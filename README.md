@@ -2,6 +2,8 @@
 
 Welcome to the Cognizant Digital Nurture 5.0 (DN5) comprehensive learning repository. This repository contains two major learning tracks designed to build foundational and advanced technical skills.
 
+---
+
 ## 📚 Repository Overview
 
 This repository is structured to support a complete learning journey covering foundational technologies through advanced enterprise-level concepts. Each topic includes structured notes, hands-on exercises, and practical assignments.
@@ -10,7 +12,7 @@ This repository is structured to support a complete learning journey covering fo
 
 ## 🎯 Learning Tracks
 
-### 1. **DN5-Upskilling** 
+### 1. **DN5-Upskilling**
 Foundation Track - Building Core Technical Competencies
 
 The upskilling track focuses on establishing strong fundamentals in web development, database management, and object-oriented programming.
@@ -44,24 +46,24 @@ The deep skilling track builds upon foundations to cover enterprise architecture
 
 ## 📊 Progress Tracker
 
-| Track | Module | Status | Completion Date | Notes |
-|-------|--------|--------|-----------------|-------|
-| **Upskilling** |||||
-| | HTML5 | Not Started | - | - |
-| | CSS3 | Not Started | - | - |
-| | JavaScript | Not Started | - | - |
-| | SQL | Not Started | - | - |
-| | C# | Not Started | - | - |
-| **DeepSkilling** |||||
-| | Design Patterns | Not Started | - | - |
-| | DSA | Not Started | - | - |
-| | Advanced SQL | Not Started | - | - |
-| | Entity Framework Core | Not Started | - | - |
-| | ASP.NET Core Web API | Not Started | - | - |
-| | Microservices | Not Started | - | - |
-| | Angular | Not Started | - | - |
-| | Docker | Not Started | - | - |
-| | Git & CI/CD | Not Started | - | - |
+| Track | Module | Status | Notes |
+|-------|--------|--------|-------|
+| **Upskilling** ||||
+| | HTML5 | ✅ Completed | Foundation completed |
+| | CSS3 | ✅ Completed | Foundation completed |
+| | JavaScript | ✅ Completed | Foundation completed |
+| | SQL | ✅ Completed | Foundation completed |
+| | C# | ✅ Completed | Foundation completed |
+| **DeepSkilling** ||||
+| | Design Patterns | ✅ Completed | |
+| | DSA | ✅ Completed | |
+| | Advanced SQL | ✅ Completed | |
+| | Entity Framework Core | ✅ Completed | |
+| | ASP.NET Core Web API | ✅ Completed | |
+| | Microservices | 🚧 In Progress | Currently working on module |
+| | Angular | ⏳ Not Started | |
+| | Docker | ⏳ Not Started | |
+| | Git & CI/CD | ⏳ Not Started | |
 
 ---
 
@@ -121,26 +123,26 @@ The deep skilling track builds upon foundations to cover enterprise architecture
 ### Recommended External Resources:
 
 **Web Development:**
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [W3Schools](https://www.w3schools.com/)
-- [CSS-Tricks](https://css-tricks.com/)
+- https://developer.mozilla.org/
+- https://www.w3schools.com/
+- https://css-tricks.com/
 
 **C# & .NET:**
-- [Microsoft Docs - C#](https://docs.microsoft.com/dotnet/csharp/)
-- [Microsoft Docs - .NET](https://docs.microsoft.com/dotnet/)
-- [C# Player's Guide](https://csharpplayersguide.com/)
+- https://learn.microsoft.com/dotnet/csharp/
+- https://learn.microsoft.com/dotnet/
+- https://csharpplayersguide.com/
 
 **Database:**
-- [SQL Tutorial](https://www.sqltutorial.org/)
-- [LeetCode Database Problems](https://leetcode.com/problemset/database/)
+- https://www.sqltutorial.org/
+- https://leetcode.com/problemset/database/
 
 **Design Patterns:**
-- [Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns)
-- [Microsoft Docs - Design Patterns](https://docs.microsoft.com/dotnet/architecture/modern-web-apps-azure/)
+- https://refactoring.guru/design-patterns
+- https://learn.microsoft.com/dotnet/architecture/modern-web-apps-azure/
 
 **Angular:**
-- [Angular Official Docs](https://angular.io/docs)
-- [Angular University](https://angular-university.io/)
+- https://angular.dev/
+- https://angular-university.io/
 
 ---
 
@@ -151,13 +153,14 @@ The deep skilling track builds upon foundations to cover enterprise architecture
 - ✅ Submit all assignments with quality code
 - ✅ Build mini-projects demonstrating mastery
 - ✅ Maintain clean, documented code
-- ✅ Contribute to learning community
+- ✅ Contribute to the learning community
 
 ---
 
 ## 📌 Quick Start
 
 1. **Clone this repository:**
+
    ```bash
    git clone https://github.com/sivasairuthvik/Cognizant.git
    cd Cognizant-DN5
