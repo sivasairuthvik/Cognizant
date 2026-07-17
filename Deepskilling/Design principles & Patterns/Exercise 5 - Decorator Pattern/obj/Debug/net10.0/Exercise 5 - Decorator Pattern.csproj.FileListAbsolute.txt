@@ -1,0 +1,15 @@
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\bin\Debug\net10.0\Exercise 5 - Decorator Pattern.exe
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\bin\Debug\net10.0\Exercise 5 - Decorator Pattern.deps.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\bin\Debug\net10.0\Exercise 5 - Decorator Pattern.runtimeconfig.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\bin\Debug\net10.0\Exercise 5 - Decorator Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\bin\Debug\net10.0\Exercise 5 - Decorator Pattern.pdb
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\Exercise 5 - Decorator Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\Exercise 5 - Decorator Pattern.AssemblyInfoInputs.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\Exercise 5 - Decorator Pattern.AssemblyInfo.cs
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\Exercise 5 - Decorator Pattern.csproj.CoreCompileInputs.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\Exercise 5 - Decorator Pattern.sourcelink.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\Exercise 5 - Decorator Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\refint\Exercise 5 - Decorator Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\Exercise 5 - Decorator Pattern.pdb
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\Exercise 5 - Decorator Pattern.genruntimeconfig.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 5 - Decorator Pattern\obj\Debug\net10.0\ref\Exercise 5 - Decorator Pattern.dll

@@ -1,0 +1,15 @@
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\Exercise 8 - Strategy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\Exercise 8 - Strategy Pattern.AssemblyInfoInputs.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\Exercise 8 - Strategy Pattern.AssemblyInfo.cs
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\Exercise 8 - Strategy Pattern.csproj.CoreCompileInputs.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\Exercise 8 - Strategy Pattern.sourcelink.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\bin\Debug\net10.0\Exercise 8 - Strategy Pattern.exe
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\bin\Debug\net10.0\Exercise 8 - Strategy Pattern.deps.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\bin\Debug\net10.0\Exercise 8 - Strategy Pattern.runtimeconfig.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\bin\Debug\net10.0\Exercise 8 - Strategy Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\bin\Debug\net10.0\Exercise 8 - Strategy Pattern.pdb
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\Exercise 8 - Strategy Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\refint\Exercise 8 - Strategy Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\Exercise 8 - Strategy Pattern.pdb
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\Exercise 8 - Strategy Pattern.genruntimeconfig.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 8 - Strategy Pattern\obj\Debug\net10.0\ref\Exercise 8 - Strategy Pattern.dll

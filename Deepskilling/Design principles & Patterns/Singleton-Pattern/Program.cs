@@ -1,3 +1,0 @@
-﻿using SingletonPatternExample;
-
-LoggerTest.Run();

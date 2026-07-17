@@ -1,0 +1,15 @@
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\bin\Debug\net10.0\Exercise 3 - Builder Pattern.exe
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\bin\Debug\net10.0\Exercise 3 - Builder Pattern.deps.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\bin\Debug\net10.0\Exercise 3 - Builder Pattern.runtimeconfig.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\bin\Debug\net10.0\Exercise 3 - Builder Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\bin\Debug\net10.0\Exercise 3 - Builder Pattern.pdb
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\Exercise 3 - Builder Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\Exercise 3 - Builder Pattern.AssemblyInfoInputs.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\Exercise 3 - Builder Pattern.AssemblyInfo.cs
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\Exercise 3 - Builder Pattern.csproj.CoreCompileInputs.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\Exercise 3 - Builder Pattern.sourcelink.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\Exercise 3 - Builder Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\refint\Exercise 3 - Builder Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\Exercise 3 - Builder Pattern.pdb
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\Exercise 3 - Builder Pattern.genruntimeconfig.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 3 - Builder Pattern\obj\Debug\net10.0\ref\Exercise 3 - Builder Pattern.dll

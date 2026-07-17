@@ -1,0 +1,15 @@
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\bin\Debug\net10.0\Exercise 10 - MVC Pattern.exe
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\bin\Debug\net10.0\Exercise 10 - MVC Pattern.deps.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\bin\Debug\net10.0\Exercise 10 - MVC Pattern.runtimeconfig.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\bin\Debug\net10.0\Exercise 10 - MVC Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\bin\Debug\net10.0\Exercise 10 - MVC Pattern.pdb
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\Exercise 10 - MVC Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\Exercise 10 - MVC Pattern.AssemblyInfoInputs.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\Exercise 10 - MVC Pattern.AssemblyInfo.cs
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\Exercise 10 - MVC Pattern.csproj.CoreCompileInputs.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\Exercise 10 - MVC Pattern.sourcelink.json
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\Exercise 10 - MVC Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\refint\Exercise 10 - MVC Pattern.dll
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\Exercise 10 - MVC Pattern.pdb
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\Exercise 10 - MVC Pattern.genruntimeconfig.cache
+C:\Users\sivas\Desktop\Projects\Cognizant\Deepskilling\Design principles & Patterns\Exercise 10 - MVC Pattern\obj\Debug\net10.0\ref\Exercise 10 - MVC Pattern.dll
