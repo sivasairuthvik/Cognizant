@@ -60,10 +60,10 @@ The deep skilling track builds upon foundations to cover enterprise architecture
 | | Advanced SQL | ✅ Completed | |
 | | Entity Framework Core | ✅ Completed | |
 | | ASP.NET Core Web API | ✅ Completed | |
-| | Microservices | 🚧 In Progress | Currently working on module |
-| | Angular | ⏳ Not Started | |
-| | Docker | ⏳ Not Started | |
-| | Git & CI/CD | ⏳ Not Started | |
+| | Microservices | ✅ Completed | |
+| | Angular | ✅ Completed | |
+| | Docker | ✅ Completed | |
+| | Git & CI/CD | ✅ Completed | |
 
 ---
 
@@ -188,4 +188,4 @@ This learning material is created for educational purposes within the Cognizant 
 
 Start small, be consistent, and celebrate your progress. Each module completed is a step towards mastery.
 
-**Last Updated:** June 2026
+**Last Updated:** July 2026
